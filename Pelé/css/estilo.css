@@ -1,0 +1,274 @@
+.pai{
+	display: flex;
+	height: 40%;
+	width: 100%;
+	background-color: rgb(0,0,0);
+}
+#preto{
+	height: 12.9vh;
+	width: 50%;
+	background-color: rgb(0,0,0);
+}
+#pop{
+	display: flex;	
+	justify-content: center;
+	height: 12.9vh;
+	width: 25%;
+	background-color: rgb(0,0,0);
+}
+#menu{
+	display: flex;
+	justify-content: center; 
+	align-self: center;
+	height: auto;
+	width: 35%;
+	background-color: rgb(0,0,0);
+}
+#pele{
+	margin: 0%;
+	height: 30%;
+	width: 100%;
+}
+footer {
+	font-family: Arial, sans-serif;
+	padding: 3vh;
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255); 
+	text-align: center;
+}
+#titulo{
+	color: rgb(255,255,255);
+	font-family: Arial, sans-serif;
+}
+#inicio{
+	color: rgb(255,255,255);
+}
+a{
+	color: rgb(255,255,255);
+}
+#elenco{
+	color: rgb(255,255,255);
+}
+#trailer{
+	color: rgb(255,255,255);
+}
+a:link{
+	text-decoration: none;
+	color: rgb(255,255,255);
+}
+a:hover{
+	color: rgb(255, 255, 0);
+	text-decoration: none;
+}
+span{
+	font-size: 3.5vh;
+	font-family: Times New Roman,serif;
+}
+#pipoca{
+	height: 12vh;
+	width: auto;
+}
+.elenco{
+	height: 13vh;
+	width: 100%;
+	background-color: rgb(255,255,255);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#Imagens{
+	height: 40vh;
+	width: auto;
+	border: 1vh solid black;
+	margin-top: 1vh;
+	margin-left: 1vh;
+}
+.inf{
+	display: flex;
+	height: 45vh;
+	width: 100%;
+	background-color: white;
+}
+#frase{
+	font-family: Callagiri;
+	padding: 2vh;
+	margin: 2vh;
+	border: 2vh double black;
+	background-color: rgb(255, 255, 0);
+	margin-right: 10vh;
+	align-self: flex-start;
+}
+#frases{
+	font-family: Callagiri;
+	padding: 2vh;
+	margin: 2vh;
+	border: 2vh double black;
+	background-color: rgb(255, 255, 0);
+	margin-right: 11vh;
+	align-self: flex-start;	
+}
+#fras{
+	font-family: Callagiri;
+	padding: 2vh;
+	margin: 2vh;
+	border: 2vh double black;
+	background-color: rgb(255, 255, 0);
+	margin-right: 2.5vh;
+	align-self: flex-start;	
+}
+#frasess{
+	font-family: Callagiri;
+	padding: 2vh;
+	margin: 2vh;
+	border: 2vh double black;
+	background-color: rgb(255, 255, 0);
+	margin-right: 4.5vh;
+	align-self: flex-start;	
+}
+#Frase{
+	font-family: Callagiri;
+	padding: 2vh;
+	margin: 2vh;
+	border: 2vh double black;
+	background-color: rgb(255, 255, 0);
+	margin-right: 21vh;
+	align-self: flex-start;	
+}
+#letra{
+	font-family: Callagiri;
+}
+#poster{
+	padding: 1vh;
+	filter:  drop-shadow(3px 3px 9px rgba(0, 0, 0, 0.6));
+	height: 65vh;
+	width: auto;
+	margin-left: 0.6vh;
+}
+.pricipal{
+	height: auto;
+	width: 100%;
+	background-color: rgb(255, 255, 0);	
+}
+iframe{
+	margin: 7vh;
+	margin-bottom: 4vh;
+	margin-right: 7vh;
+}
+#anilton{
+	border: 2vh solid black;
+	padding: 2vh;
+	filter:  drop-shadow(3px 3px 9px rgba(0, 0, 0, 0.4));
+}
+#tam{
+	height: 80vh;
+	width: 100%;
+}
+#palavra{
+	color: rgb(255,255,255);
+	font-family: Arial;
+	font-size: 8vh;
+}
+.pai1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: column;
+	background-color: white;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.filho{
+	background-color: rgb(10,10,10);
+	height: 20vh;
+	width: 100%;
+}
+.filho2{
+	background-color: rgb(10,10,10);
+	height: 10vh;
+	width: 100%;
+}
+#borda{
+	border: 0.2vh solid gray;
+	color: rgb(190,190,190);
+}
+#coloraçao{
+	color: rgb(190,190,190);
+}
+.descriçao{
+	background-color: rgb(10,10,10);
+	height: 15vh;
+	width: 100%;
+}
+#sino{
+	margin-right: 2vh;
+	color: rgb(255,255,255);
+}
+.foto{
+	display: flex;
+	background-color: blue;
+	width: 100%;
+	height: auto;
+}
+.diretores{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	height: 40vh;
+	background-color: rgb(255,255,255);
+}
+#direto{
+	border: 2vh double black;
+}
+#davi{
+	border: 0.1vh black solid;
+	margin-left: 1vh;
+	filter:  drop-shadow(3px 3px 9px rgba(0, 0, 0, 0.1));
+}
+.site{
+	background-color: rgb(255,255,255);
+	width: 50%;
+	height: auto;
+}
+.grande{
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: rgb(255,255,255);
+	width: 100%;
+	height: auto;
+}
+.noticias{
+	background-color: rgb(0,0,0);
+	width: 100%;
+	height: 5vh;
+}
+#escrita{
+	color: rgb(255,255,255);
+}
+.curiosidade{
+	background-color: rgb(255,255,255);
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+.lin{
+	background-color: rgb(255,255,255);
+	width: 50%;
+	height: auto;
+}
+#colo{
+	color: rgb(0,0,0);
+}
+.fim{
+	background-color: rgb(255,255,255);
+	width: 50%;
+	height: auto;
+}
+.fim01{
+	background-color: rgb(255,255,255);
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: nowrap;
+}
